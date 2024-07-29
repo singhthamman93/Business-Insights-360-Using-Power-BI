@@ -3,6 +3,9 @@
 ## Overview
 This project showcases the application of Power BI to deliver actionable business insights. Using a range of Power BI features and techniques, I developed an interactive dashboard to analyze and visualize key performance metrics and trends. 📊
 
+## 🔗 Checkout the live dashboard here 
+https://app.powerbi.com/view?r=eyJrIjoiYTNlOGZjNzMtN2Y1YS00MDY1LWE4NDUtN2JmOWRmMmI2NDAyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## Tech Stacks Used
 - **SQL** 🗃️
 - **Power BI Desktop** 🖥️
